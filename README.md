@@ -493,7 +493,7 @@ Web 数据可视化工具
 
 <h3 id="fonts">字体生成</h3>
 
-* fontsquirrel: 生成多种字体 [官网](https://www.fontsquirrel.com/tools/webfont-generator)
+* fontsquirrel: 生成多种字体 [官网](https://transfonter.org/)
 ## UI
 
 <h3 id="code-highlighting">代码高亮</h3>
