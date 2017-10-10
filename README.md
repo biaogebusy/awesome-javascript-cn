@@ -90,6 +90,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [菜单](#menu)
     * [表格/栅格](#table-grid)
     * [框架](#frameworks-1)
+    * [数字计数](#countto)
   * 移动
     * [手势](#gesture)
   * [地图](#maps)
@@ -494,6 +495,10 @@ Web 数据可视化工具
 <h3 id="fonts">字体生成</h3>
 
 * fontsquirrel: 生成多种字体 [官网](https://transfonter.org/)
+
+<h3 id="countto">数字计数</h3>
+
+* countto: 数字从0到指定数的翻动 (官网)(https://github.com/mhuggins/jquery-countTo)
 ## UI
 
 <h3 id="code-highlighting">代码高亮</h3>
