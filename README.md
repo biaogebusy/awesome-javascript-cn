@@ -732,6 +732,7 @@ Web 数据可视化工具
 * GreenSock-JS：适用于所有主流浏览器的高性能 HTML5 动画。[官网](https://github.com/greensock/GreenSock-JS)
 * TransitionEnd：TransitionEnd 是一个运用 transitonend 事件的、跨浏览器的库。[官网](https://github.com/EvandroLG/transitionEnd)
 * [Dynamics.js](http://hao.jobbole.com/dynamics-js/)：用于创建基于物理知识的 CSS 动画库。[官网](https://github.com/michaelvillar/dynamics.js)
+* wow: 当你滚动时显示动画 [官网](http://mynameismatthieu.com/WOW/index.html)
 
 <h3 id="image-processing">图片处理</h3>
 
