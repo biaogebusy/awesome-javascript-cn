@@ -622,6 +622,7 @@ Web 数据可视化工具
 * selectize.js：Selectize 是文本框和选择框的混合体。它基于jQuery，拥有自动完成和键盘感应下拉列表功能，可用于标签、联系人列表等。[官网](https://github.com/brianreavis/selectize.js)
 * select2：它基于 jQuery，是选择框（select box）的替代品。支持搜索、远程数据集和无限滚动。[官网](https://github.com/select2/select2)
 * chosen：可以让冗长不便的选择框更友好的库。[官网](https://github.com/harvesthq/chosen)
+* selectric: [官网](http://selectric.js.org/)
 
 ### 文件上传
 
