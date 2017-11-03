@@ -4,37 +4,6 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
-* * *
-
-### 我们要做什么？
-
-- 基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
-  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
-  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
-
-* * *
-
-### 如何参与本项目？
-
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 在用 JavaScript；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)
-
-注：名单不分排名，不定期补充更新
 
 * * *
 ### 目录
@@ -91,6 +60,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [表格/栅格](#table-grid)
     * [框架](#frameworks-1)
     * [数字计数](#countto)
+    * [显示](#show)
   * 移动
     * [手势](#gesture)
   * [地图](#maps)
@@ -498,8 +468,11 @@ Web 数据可视化工具
 
 <h3 id="countto">数字计数</h3>
 
-* countto: 数字从0到指定数的翻动 (官网)(https://github.com/mhuggins/jquery-countTo)
+* countto: 数字从0到指定数的翻动 [官网](https://github.com/mhuggins/jquery-countTo)
 ## UI
+<h3 id="show">显示</h3>
+
+* readmore.js 显示更多 [官网](https://github.com/jedfoster/Readmore.js)
 
 <h3 id="code-highlighting">代码高亮</h3>
 
