@@ -1,10 +1,5 @@
 # JavaScript 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-javascript](https://github.com/sorrycc/awesome-javascript) 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
-
-Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
-
-
 * * *
 ### 目录
 
@@ -63,13 +58,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [显示](#show)
   * 移动
     * [手势](#gesture)
-  * [地图](#maps)
-  * [视频/音频](#video-audio)
-  * [动画](#animations)
-  * [图片处理](#image-processing)
-  * [ES6](#es6)
-  * [SDK](#sdk)
-  * [大杂烩](#misc)
+    * [地图](#maps)
+    * [视频/音频](#video-audio)
+    * [动画](#animations)
+    * [图片处理](#image-processing)
+    * [ES6](#es6)
+    * [SDK](#sdk)
+    * [大杂烩](#misc)
 * [精品阅读](#worth-reading)
 - [资源](#resources)
     - [社区](#communities)
@@ -656,6 +651,7 @@ Web 数据可视化工具
 * jQuery contextMenu：右键菜单（contextMenu） 管理工具。[官网](https://github.com/swisnl/jQuery-contextMenu)
 * Slideout：为移动设备的 web 应用制作出响应式的、可触摸滑出的导航菜单。[官网](https://github.com/mango/slideout)
 * Slide and swipe：一个基于 touchSwipe 库的滑出菜单插件。[官网](https://github.com/JoanClaret/slide-and-swipe-menu)
+* jQuer.mmenu: 移动端菜单。[官网](https://github.com/FrDH/jQuery.mmenu)
 
 <h3 id="table-grid">表格/栅格</h3>
 
