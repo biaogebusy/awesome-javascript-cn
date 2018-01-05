@@ -468,6 +468,7 @@ Web 数据可视化工具
 <h3 id="show">显示</h3>
 
 * readmore.js 显示更多 [官网](https://github.com/jedfoster/Readmore.js)
+* jquery.hoverdir 鼠标经过遮罩效果 [官网](https://github.com/webmandesign/jquery.hoverdir)
 
 <h3 id="code-highlighting">代码高亮</h3>
 
