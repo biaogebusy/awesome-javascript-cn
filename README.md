@@ -537,6 +537,7 @@ Web 数据可视化工具
 
 <h3 id="sliders">幻灯片</h3>
 
+* OwlCarousel2：响应式移动体验好的幻灯片，github 5111star [官网](https://owlcarousel2.github.io/OwlCarousel2/)
 * Swiper：使用硬件加速过渡的移动设备触控滑块框架。[官网](https://github.com/nolimits4web/Swiper)
 * slick：你所需要的最后一个轮播插件。[官网](https://github.com/kenwheeler/slick)
 * slidesJs：响应式的 jQuery（1.7.1+）幻灯片插件，具有触摸、 CSS3 过渡等特性。[官网](http://www.slidesjs.com/)
