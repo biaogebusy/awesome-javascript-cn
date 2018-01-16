@@ -37,7 +37,7 @@
     * [API](#api)
     * [视觉检测](#vision-detection)
     * [浏览器检测](#browser-detection)
-    * [字体生成](#fonts)
+    * [字体生成](#fonts)
   * UI
     * [代码高亮](#code-highlighting)
     * [加载状态](#loading-status)
@@ -54,8 +54,8 @@
     * [菜单](#menu)
     * [表格/栅格](#table-grid)
     * [框架](#frameworks-1)
-    * [数字计数](#countto)
-    * [显示](#show)
+    * [数字计数](#countto)
+    * [显示](#show)
   * 移动
     * [手势](#gesture)
     * [地图](#maps)
@@ -469,6 +469,7 @@ Web 数据可视化工具
 
 * readmore.js 显示更多 [官网](https://github.com/jedfoster/Readmore.js)
 * jquery.hoverdir 鼠标经过遮罩效果 [官网](https://github.com/webmandesign/jquery.hoverdir)
+* animsition 页面级别动画效果 [官网](http://git.blivesta.com/animsition/)
 
 <h3 id="code-highlighting">代码高亮</h3>
 
