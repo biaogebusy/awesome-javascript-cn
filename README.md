@@ -708,6 +708,7 @@ Web 数据可视化工具
 * [Dynamics.js](http://hao.jobbole.com/dynamics-js/)：用于创建基于物理知识的 CSS 动画库。[官网](https://github.com/michaelvillar/dynamics.js)
 * wow: 当你滚动时显示动画 [官网](http://mynameismatthieu.com/WOW/index.html)
 * Easy Pie Chart: 简单的动态显示单值饼图 [官网](https://github.com/rendro/easy-pie-chart/)
+* loading.io 各种loading效果，而且可以定制尺寸，速率。[官网](https://loading.io/)
 
 <h3 id="image-processing">图片处理</h3>
 
