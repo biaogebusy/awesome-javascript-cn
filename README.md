@@ -709,6 +709,7 @@ Web 数据可视化工具
 * wow: 当你滚动时显示动画 [官网](http://mynameismatthieu.com/WOW/index.html)
 * Easy Pie Chart: 简单的动态显示单值饼图 [官网](https://github.com/rendro/easy-pie-chart/)
 * loading.io 各种loading效果，而且可以定制尺寸，速率。[官网](https://loading.io/)
+* hamburgers 汉堡菜单[官网](https://jonsuh.com/hamburgers/)
 
 <h3 id="image-processing">图片处理</h3>
 
