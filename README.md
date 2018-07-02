@@ -105,7 +105,7 @@ JavaScript 的模块或加载系统。
 * LodJS：基于 AMD 的模块加载器。[官网](https://github.com/yanhaijing/lodjs)
 * ESL：浏览器端的模块加载器，支持延迟定义和 AMD。[官网](https://github.com/ecomfe/esl)
 * modulejs：轻量的 JavaScript 模块系统。[官网](https://github.com/lrsjng/modulejs)
-
+* lazysizes:无依赖懒加载 [官网](https://github.com/aFarkas/lazysizes)
 <h2 id="bundlers">打包工具</h2>
 
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
