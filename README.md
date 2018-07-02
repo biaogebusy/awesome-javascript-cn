@@ -51,6 +51,7 @@
     * [提示](#tips)
     * [模态框和弹出框](#modals-and-popups)
     * [滚动条](#scroll)
+    * [固定](#sticky)
     * [菜单](#menu)
     * [表格/栅格](#table-grid)
     * [框架](#frameworks-1)
@@ -648,6 +649,9 @@ Web 数据可视化工具
 * fullPage：简单和易于使用的、用于创建全屏滚动网站的插件（也被称为单页面网站）。[官网](https://github.com/alvarotrigo/fullPage.js)
 * ScrollMenu：让老旧无聊的滚动条焕然一新。[官网](https://github.com/s-yadav/ScrollMenu)
 * jQuery-slimScroll: 可以将任何div转换为可滚动区域，并带有一个漂亮的滚动条。 [官网](https://github.com/rochal/jQuery-slimScroll)
+
+<h3 id="sticky">固定</h3>
+* waypoints:滚动到元素时固定元素 [官网](https://github.com/imakewebthings/waypoints)
 
 <h3 id="menu">菜单</h3>
 
