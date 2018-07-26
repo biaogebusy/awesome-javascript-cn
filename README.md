@@ -57,6 +57,7 @@
     * [框架](#frameworks-1)
     * [数字计数](#countto)
     * [显示](#show)
+    * [投票](#voting)
   * 移动
     * [手势](#gesture)
     * [地图](#maps)
@@ -471,6 +472,9 @@ Web 数据可视化工具
 * readmore.js 显示更多 [官网](https://github.com/jedfoster/Readmore.js)
 * jquery.hoverdir 鼠标经过遮罩效果 [官网](https://github.com/webmandesign/jquery.hoverdir)
 * animsition 页面级别动画效果 [官网](http://git.blivesta.com/animsition/)
+
+<h3 id="voting">投票</h3>
+* jQuery bar rating [官网](https://github.com/antennaio/jquery-bar-rating)
 
 <h3 id="code-highlighting">代码高亮</h3>
 
