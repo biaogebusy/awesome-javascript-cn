@@ -611,6 +611,7 @@ Web 数据可视化工具
 
 ### 其它
 
+* fomr serialize 把表单提交序列号成对象 [官网](https://github.com/defunctzombie/form-serialize)
 * form：jQuery 表单插件。[官网](https://github.com/malsup/form)
 * Garlic.js：自动在本地保存表单文本和选择框的值，直到表单被提交。[官网](https://github.com/guillaumepotier/Garlic.js)
 * Countable：对某个 HTML 元素包含文本的段落数、单词数和字符数进行统计的 JavaScript 函数。[官网](https://github.com/RadLikeWhoa/Countable)
