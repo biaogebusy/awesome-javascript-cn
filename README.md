@@ -740,3 +740,5 @@ Web 数据可视化工具
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
 
+#### 个人知乎专栏
+* 前端茶馆 [https://zhuanlan.zhihu.com/frontend-focus](https://zhuanlan.zhihu.com/frontend-focus)
