@@ -67,13 +67,6 @@
     * [ES6](#es6)
     * [SDK](#sdk)
     * [大杂烩](#misc)
-* [精品阅读](#worth-reading)
-- [资源](#resources)
-    - [社区](#communities)
-    - [有影响力的书](#influential-books)
-    - [微博、微信公众号](#weibo-weixin)
-    - [知名网站](#websites)
-    - [博客](blogs)
 
 * * *
 
@@ -746,35 +739,4 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
-
-<h2 id="worth-reading">精品阅读</h2>
-
-* braziljs/js-the-right-way：[官网](https://github.com/braziljs/js-the-right-way/)
-* JSbooks：[官网](https://github.com/revolunet/JSbooks)
-* Superhero.js：关于创建、测试和维护一个大型 JavaScript 代码库的资源集。[官网](http://superherojs.com/)
-* 《[前端开发者都应知道的 jQuery 小技巧](http://web.jobbole.com/84028/)》
-* 《[常用的 Javascript 设计模式](http://web.jobbole.com/29454/)》
-* 《[10 个 jQuery 图表插件推荐](http://web.jobbole.com/21136/)》
-* 《[理解 JavaScript 原型](http://web.jobbole.com/9648/)》
-* 《[只有20行Javascript代码！手把手教你写一个页面模板引擎](http://web.jobbole.com/56689/)》
-* 《[编写快速、高效的JavaScript代码](http://web.jobbole.com/31951/)》
-* 《[45个实用的JavaScript技巧、窍门和最佳实践](http://web.jobbole.com/54495/)》
-* 《[为现代JavaScript开发做好准备](http://web.jobbole.com/66135/)》
-* 《[给JavaScript初学者的24条最佳实践](http://web.jobbole.com/53199/)》
-
-<h1 id="resources">资源</h1>
-
-<h3 id="influential-books">有影响力的书</h3>
-*具有广泛影响且值得阅读的前端经典书籍。*
-
-*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
-
-<h3 id="websites">知名网站</h3>
-*值得关注的前端技术站点。*
-
-<h4>中文站点</h4>
-
-* 伯乐在线前端频道：伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。[官网](http://web.jobbole.com/)
-
-<h4>英文站点</h4>
 
