@@ -632,6 +632,7 @@ Web 数据可视化工具
 * css-modal：纯 CSS 打造的模态框。[官网](https://github.com/drublic/css-modal)
 * jquery-popup-overlay：是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。[官网](https://github.com/vast-engineering/jquery-popup-overlay)
 * lity：轻便，易于访问和响应的灯箱。 [官网](https://sorgalla.com/lity/)
+* layer:目前已成为最多人使用的弹层解决方案 [官网](https://github.com/sentsin/layer/)
 
 <h3 id="scroll">滚动</h3>
 
