@@ -579,6 +579,7 @@ Web 数据可视化工具
 
 ### 日历
 
+* laydate: layDate（日期与时间组件） 是 layui 独立维护的三大组件之一。[官网](https://github.com/sentsin/laydate/)
 * pickadate.js：对移动设备友好的、响应式的和轻量的 jQuery 日期 &amp; 时间输入选择器。[官网](https://github.com/amsul/pickadate.js)
 * bootstrap-datepicker：基于 bootstrap 的日历选择器。[官网](https://github.com/eternicode/bootstrap-datepicker)
 * Pikaday：一个崭新的 JavaScript 日期选择器 —— 轻量、无依赖和模块化的 CSS。[官网](https://github.com/dbushell/Pikaday)
