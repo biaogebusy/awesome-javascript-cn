@@ -320,6 +320,7 @@ Web 数据可视化工具
 日期库。
 
 * moment：解析、验证、操作和显示日期。[官网](https://github.com/moment/moment)
+* Date-fns：现代日期工具库 [官网](https://github.com/date-fns/date-fns)
 * moment-timezone：基于 moment.js 的时区库。[官网](https://github.com/moment/moment-timezone)
 * jquery-timeago：一款支持自动更新模糊时间戳的 jQuery 插件（如："4 分钟之前"）。[官网](https://github.com/rmm5t/jquery-timeago)
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
