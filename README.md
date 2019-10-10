@@ -58,6 +58,7 @@
     * [数字计数](#countto)
     * [显示](#show)
     * [投票](#voting)
+    * [分享](#share)
   * 移动
     * [手势](#gesture)
     * [地图](#maps)
@@ -469,6 +470,9 @@ Web 数据可视化工具
 
 <h3 id="voting">投票</h3>
 * jQuery bar rating [官网](https://github.com/antennaio/jquery-bar-rating)
+
+<h3 id="share">分享</h3>
+* 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。 [官网](https://github.com/overtrue/share.js)
 
 <h3 id="code-highlighting">代码高亮</h3>
 
