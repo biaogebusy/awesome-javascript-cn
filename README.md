@@ -51,7 +51,7 @@
     * [提示](#tips)
     * [模态框和弹出框](#modals-and-popups)
     * [滚动条](#scroll)
-    * [固定](#sticky)
+    * [视窗](#view)
     * [菜单](#menu)
     * [表格/栅格](#table-grid)
     * [框架](#frameworks-1)
@@ -76,13 +76,6 @@
 
 * npm：npm 是 javascript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
-* component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
-* spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
-* jam：一个专注于浏览器端和兼容 RequireJS 的包管理器。[官网](https://github.com/caolan/jam)
-* jspm：流畅的浏览器包管理器。[官网](https://github.com/jspm/jspm-cli)
-* Ender：没有库文件的程序库。[官网](https://github.com/ender-js/Ender)
-* volo：以项目模板、添加依赖项与自动化生成的方式创建前端项目。[官网](https://github.com/volojs/volo) 
-* Duo：一个整合 Component、Browserify 和 Go [官网](https://github.com/duojs/duo)的最佳思想，使开发者能快速方便地组织和编写前端代码的下一代包管理器。
 
 <h2 id="loaders">加载器</h2>
 
@@ -90,14 +83,8 @@ JavaScript 的模块或加载系统。
 
 * RequireJS：JavaScript 文件和模块的加载器。[官网](https://github.com/jrburke/requirejs)
 * browserify：在浏览器端以 node.js 的方式 require()。[官网](https://github.com/substack/node-browserify)
-* SeaJS：用于 Web 的模块加载器。[官网](https://github.com/seajs/seajs)
-* HeadJS：HEAD 的唯一脚本。[官网](https://github.com/headjs/headjs)
 * curl：小巧、快速且易扩展的模块加载器，它能处理 AMD、CommonJS Modules/1.1、CSS、HTML/text 和历史脚本。[官网](https://github.com/cujojs/curl)
 * lazyload：小巧且无依赖的异步 JavaScript 和 CSS 加载器。[官网](https://github.com/rgrove/lazyload/)
-* script.js：异步 JavaScript 加载器和依赖管理器。[官网](https://github.com/ded/script.js)
-* systemjs：AMD、CJS（commonJS） 和符合 ES6 规范的模块加载器。[官网](https://github.com/systemjs/systemjs)
-* LodJS：基于 AMD 的模块加载器。[官网](https://github.com/yanhaijing/lodjs)
-* ESL：浏览器端的模块加载器，支持延迟定义和 AMD。[官网](https://github.com/ecomfe/esl)
 * modulejs：轻量的 JavaScript 模块系统。[官网](https://github.com/lrsjng/modulejs)
 * lazysizes:无依赖懒加载 [官网](https://github.com/aFarkas/lazysizes)
 <h2 id="bundlers">打包工具</h2>
@@ -153,32 +140,11 @@ JavaScript 的模块或加载系统。
 
 <h2 id="mvc-frameworks-and-libraries">MVC 框架和库</h2>
 
-* [angular.js](http://hao.jobbole.com/angularjs/)：为网络应用增强 HTML。[官网](https://github.com/angular/angular.js)
-* aurelia：一个适用于移动设备、桌面电脑和 web 的客户端 JavaScript 框架。[官网](http://aurelia.io/)
-* backbone：给你的 JS 应用加入带有 Models、Views、Collections 和 Events 的 Backbone。[官网](https://github.com/jashkenas/backbone)
-* batman.js：最适合 Rails 开发者的 JavaScript 框架。[官网](http://batmanjs.org/)
-* ember.js：一个旨在创建非凡 web 应用的 JavaScript 框架。[官网](https://github.com/emberjs/ember.js)
-* meteor：一个超简单的、数据库无处不在的、只传输数据的纯 JavaScript web 框架。[官网](https://github.com/meteor/meteor)
-* ractive：新一代 DOM 操作。[官网](https://github.com/ractivejs/ractive)
-* vue：一个用于构建可交互界面的、直观快速和可组合的 MVVM 框架。[官网](https://github.com/vuejs/vue) 
-* knockout：Knockout 用 JavaScript 让创建响应式的富 UI 更加容易。[官网](https://github.com/knockout/knockout) 
-* spine：构建 JavaScript 应用的轻量 MVC 库。[官网](https://github.com/spine/spine)
-* espresso.js：一个极小的、用于制作用户界面的 JavaScript 库。[官网](https://github.com/techlayer/espresso.js)
-* canjs：让 JS 更好、更快、更简单。[官网](https://github.com/canjs/canjs)
-* react：用于建构用户界面的库。它是声明式的、高效的和极度灵活的，并使用虚拟 DOM 作为其不同的实现。[官网](https://facebook.github.io/react/)
-* react-native：一个用 React 构建原生应用的框架。[官网](https://github.com/facebook/react-native)
-* riot：类 React 库，但很轻量。[官网](https://github.com/riot/riot)
-* thorax：加强你的 Backbone。[官网](https://github.com/walmartlabs/thorax)
-* chaplin：使用 Backbone.js 库的 JavaScript 应用架构。[官网](https://github.com/chaplinjs/chaplin)
-* marionette：一个 Backbone.js 的复合应用程序库，旨在简化大型 JavaScript 应用结构。[官网](https://github.com/marionettejs/backbone.marionette)
-* ripple：一个小巧的、用于构建响应界面的基础框架。[官网](https://github.com/ripplejs/ripple)
-* rivets：轻量却拥有强大的数据绑定和模板解决方案[官网](https://github.com/mikeric/rivets)
-* derby：让编写实时和协同应用更简单的 MVC 框架，能够在 Node.js 和浏览器同时运行。[官网](https://github.com/derbyjs/derby)
-    * derby-awesome：很棒的 derby 组件集合。[官网](https://github.com/russll/awesome-derby)
-* [way.js](http://hao.jobbole.com/way-js/)：简单、轻量、持久化的双向数据绑定。[官网](https://github.com/gwendall/way.js)
-* mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
-* jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
-* LiquidLava：易懂的、用于构建用户界面的 MVC 框架。[官网](http://www.lava-framework.com/)
+* angular：一套框架多种平台[官网](https://github.com/angular/angular) 53.3k
+* react：用于建构用户界面的库。它是声明式的、高效的和极度灵活的，并使用虚拟 DOM 作为其不同的实现。[官网](https://facebook.github.io/react/) 138k
+* vue：一个用于构建可交互界面的、直观快速和可组合的 MVVM 框架。[官网](https://github.com/vuejs/vue) 151k
+* backbone：给你的 JS 应用加入带有 Models、Views、Collections 和 Events 的 Backbone。[官网](https://github.com/jashkenas/backbone) 27.6k
+* react-native：一个用 React 构建原生应用的框架。[官网](https://github.com/facebook/react-native) 82.1k
 
 <h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
@@ -197,59 +163,51 @@ JavaScript 的模块或加载系统。
 
 模板引擎允许您执行字符串插值。
 
-* mustache.js：是 JavaScript 中带有 {{mustaches}} 的最简模板。[官网](https://github.com/janl/mustache.js)
-* handlebars.js：是 Mustache 模板语言的扩展。[官网](https://github.com/wycats/handlebars.js/)
-* hogan.js：是 Mustache 模板语言的编译器。[官网](https://github.com/twitter/hogan.js)
-* doT：最快速简洁的 JavaScript 模板引擎，适用于 nodejs 和浏览器。[官网](https://github.com/olado/doT)
-* dustjs：适用于浏览器和 node.js 的异步模板。[官网](https://github.com/linkedin/dustjs/)
-* eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
-* JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
-* t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
-* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade)
-* EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
-* xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
-* marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
+* mustache.js：是 JavaScript 中带有 {{mustaches}} 的最简模板。[官网](https://github.com/janl/mustache.js) 13.4k
+* handlebars.js：是 Mustache 模板语言的扩展。[官网](https://github.com/wycats/handlebars.js/) 14.9k
+* hogan.js：是 Mustache 模板语言的编译器。[官网](https://github.com/twitter/hogan.js) 5k
+* doT：最快速简洁的 JavaScript 模板引擎，适用于 nodejs 和浏览器。[官网](https://github.com/olado/doT) 4.4k
+* dustjs：适用于浏览器和 node.js 的异步模板。[官网](https://github.com/linkedin/dustjs/) 2.8k
+* eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/) 1.8k
+* JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates) 1.5k
+* t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js) 790
+* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade) 18.7k
+* EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs) 3.9k
+* xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate) 517
+* marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。 9.2k
 
 <h2 id="data visualization">数据可视化</h2>
 
 Web 数据可视化工具
 
-* d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/mbostock/d3)
-* metrics-graphics：更简洁和拥有更规范的数据图表布局优化算法的库。[官网](https://github.com/mozilla/metrics-graphics)
-* pykcharts.js：经过精心设计后，去除 d3.js 复杂性的 d3.js 图表库。[官网](https://github.com/pykih/PykCharts.js)
-* three.js：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
-* Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/nnnick/Chart.js)
-* paper.js：是矢量图形脚本中的瑞士军刀 —— 使用 HTML5 Canvas 将 Scriptographer  移植到 JavaScript [官网](https://github.com/paperjs/paper.js)和浏览器。
-* fabric.js：JavaScript Canvas 库，SVG 与 Canvas 可以相互解析。[官网](https://github.com/kangax/fabric.js)
-* peity：进度条、线状和饼状图。[官网](https://github.com/benpickles/peity)
-* raphael：JavaScript 矢量库。[官网](https://github.com/DmitryBaranovskiy/raphael)
-* echarts：商业产品图表。[官网](https://github.com/ecomfe/echarts)
-* vis：动态的、基于浏览器的可视化库。[官网](https://github.com/almende/vis)
-* two.js：一个渲染器无关的适用于 web 的二维绘图 api 。[官网](https://github.com/jonobr1/two.js)
-* g.raphael：基于 Raphaël 图表库。[官网](https://github.com/DmitryBaranovskiy/g.raphael)
-* sigma.js：一个致力于图形绘画的 JavaScript 库。[官网](https://github.com/jacomyal/sigma.js)
-* arbor：一个使用 web workers 和 jQuery 的图形可视化库。[官网](https://github.com/samizdatco/arbor)
-* cubism：可视化时间序列的 D3 插件。[官网](https://github.com/square/cubism)
-* dc.js：与 crossfilter 无缝合作的多维图表绘制库，使用 d3.js 渲染。[官网](https://github.com/dc-js/dc.js)
-* vega：一套可视化语法。[官网](https://github.com/trifacta/vega)
-* processing.js：Processing.js 基于 Web 标准使数据可视化，而无需任何插件。[官网](http://processingjs.org/)
-* envisionjs：动态的 HTML5 可视化。[官网](https://github.com/HumbleSoftware/envisionjs)
-* rickshaw：用于构建交互式实时图表的 JavaScript 工具包。[官网](https://github.com/shutterstock/rickshaw)
-* flot：吸引人的、基于 jQuery 的 JavaScript 图表库。[官网](https://github.com/flot/flot)
-* morris.js：漂亮的时间序列线框图。[官网](https://github.com/morrisjs/morris.js)
-* nvd3：一个为 D3.js 构建可复用图表和图表组件的库。[官网](https://github.com/novus/nvd3)
-* svg.js：一个轻量的、用于操作和添加 SVG 动画的库。[官网](https://github.com/wout/svg.js)
-* heatmap.js：基于 HTML5 canvas 的热力图 JavaScript 库。[官网](https://github.com/pa7/heatmap.js)
-* jquery.sparkline：一个直接在浏览器端生成小型走势图的 jQuery 插件。[官网](https://github.com/gwatts/jquery.sparkline)
-* xCharts：一个基于 D3、用于构建自定义图表和图形的库。[官网](https://github.com/tenxer/xCharts)
-* trianglify：基于 d3.js 的低多边形（low poly）风格背景图片生成器。[官网](https://github.com/qrohlf/trianglify)
-* d3-cloud：创建词云（word cloud）效果的 JavaScript 库。[官网](https://github.com/jasondavies/d3-cloud)
-* d4：一个基于 D3 、友好、可复用的 DSL 图表库 。[官网](https://github.com/heavysixer/d4)
-* dimple.js：基于 d3 的简易商业分析图表库。[官网](http://dimplejs.org/)
-* chartist-js：简单的响应式图表。[官网](https://github.com/gionkunz/chartist-js)
-* epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch)
-* c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3)
-* BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js)
+* d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/mbostock/d3) 88.2k
+* metrics-graphics：更简洁和拥有更规范的数据图表布局优化算法的库。[官网](https://github.com/mozilla/metrics-graphics) 7.2k
+* three.js：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js) 55.8k
+* Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/nnnick/Chart.js) 45.8k
+* paper.js：是矢量图形脚本中的瑞士军刀 —— 使用 HTML5 Canvas 将 Scriptographer  移植到 JavaScript [官网](https://github.com/paperjs/paper.js)和浏览器。 11k
+* fabric.js：JavaScript Canvas 库，SVG 与 Canvas 可以相互解析。[官网](https://github.com/kangax/fabric.js) 13.8k
+* peity：进度条、线状和饼状图。[官网](https://github.com/benpickles/peity) 4.1k
+* raphael：JavaScript 矢量库。[官网](https://github.com/DmitryBaranovskiy/raphael) 10.4k
+* echarts：商业产品图表。[官网](https://github.com/ecomfe/echarts) 37.3k
+* two.js：一个渲染器无关的适用于 web 的二维绘图 api 。[官网](https://github.com/jonobr1/two.js) 6.3k
+* g.raphael：基于 Raphaël 图表库。[官网](https://github.com/DmitryBaranovskiy/g.raphael) 1.5k
+* sigma.js：一个致力于图形绘画的 JavaScript 库。[官网](https://github.com/jacomyal/sigma.js) 8.7k
+* arbor：一个使用 web workers 和 jQuery 的图形可视化库。[官网](https://github.com/samizdatco/arbor) 2.5k
+* cubism：可视化时间序列的 D3 插件。[官网](https://github.com/square/cubism) 4.8k
+* dc.js：与 crossfilter 无缝合作的多维图表绘制库，使用 d3.js 渲染。[官网](https://github.com/dc-js/dc.js) 6.9k
+* rickshaw：用于构建交互式实时图表的 JavaScript 工具包。[官网](https://github.com/shutterstock/rickshaw) 6.4k
+* flot：吸引人的、基于 jQuery 的 JavaScript 图表库。[官网](https://github.com/flot/flot) 5.7k
+* morris.js：漂亮的时间序列线框图。[官网](https://github.com/morrisjs/morris.js) 6.9k
+* nvd3：一个为 D3.js 构建可复用图表和图表组件的库。[官网](https://github.com/novus/nvd3) 7k
+* svg.js：一个轻量的、用于操作和添加 SVG 动画的库。[官网](https://github.com/wout/svg.js) 7.4k
+* heatmap.js：基于 HTML5 canvas 的热力图 JavaScript 库。[官网](https://github.com/pa7/heatmap.js) 5k
+* jquery.sparkline：一个直接在浏览器端生成小型走势图的 jQuery 插件。[官网](https://github.com/gwatts/jquery.sparkline) 1.2k
+* trianglify：基于 d3.js 的低多边形（low poly）风格背景图片生成器。[官网](https://github.com/qrohlf/trianglify) 9k
+* d3-cloud：创建词云（word cloud）效果的 JavaScript 库。[官网](https://github.com/jasondavies/d3-cloud) 3k
+* chartist-js：简单的响应式图表。[官网](https://github.com/gionkunz/chartist-js) 11k
+* epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch) 5k
+* c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3) 8.5k
+* BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js) 10.3k
 
 也有一些很棒的收费库，如 [amchart](https://www.amcharts.com/)、[plotly](https://plot.ly/) 和 [highchart](http://www.highcharts.com/)。
 
@@ -651,8 +609,10 @@ Web 数据可视化工具
 * ScrollMenu：让老旧无聊的滚动条焕然一新。[官网](https://github.com/s-yadav/ScrollMenu)
 * jQuery-slimScroll: 可以将任何div转换为可滚动区域，并带有一个漂亮的滚动条。 [官网](https://github.com/rochal/jQuery-slimScroll)
 
-<h3 id="sticky">固定</h3>
+<h3 id="view">视窗</h3>
+
 * waypoints:滚动到元素时固定元素 [官网](https://github.com/imakewebthings/waypoints)
+* jQuery inview: [官网](https://github.com/protonet/jquery.inview) 1.6k
 
 <h3 id="menu">菜单</h3>
 
