@@ -205,6 +205,7 @@ Web 数据可视化工具
 * jquery.sparkline：一个直接在浏览器端生成小型走势图的 jQuery 插件。[官网](https://github.com/gwatts/jquery.sparkline) 1.2k
 * trianglify：基于 d3.js 的低多边形（low poly）风格背景图片生成器。[官网](https://github.com/qrohlf/trianglify) 9k
 * d3-cloud：创建词云（word cloud）效果的 JavaScript 库。[官网](https://github.com/jasondavies/d3-cloud) 3k
+* 2d 词云：可以根据图片描绘路径生成词云。[官网](https://github.com/timdream/wordcloud2.js) 1.3k
 * chartist-js：简单的响应式图表。[官网](https://github.com/gionkunz/chartist-js) 11k
 * epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch) 5k
 * c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3) 8.5k
