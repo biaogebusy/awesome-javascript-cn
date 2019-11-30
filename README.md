@@ -676,7 +676,8 @@ Web 数据可视化工具
 * GreenSock-JS：适用于所有主流浏览器的高性能 HTML5 动画。[官网](https://github.com/greensock/GreenSock-JS)
 * TransitionEnd：TransitionEnd 是一个运用 transitonend 事件的、跨浏览器的库。[官网](https://github.com/EvandroLG/transitionEnd)
 * [Dynamics.js](http://hao.jobbole.com/dynamics-js/)：用于创建基于物理知识的 CSS 动画库。[官网](https://github.com/michaelvillar/dynamics.js)
-* wow: 当你滚动时显示动画 [官网](http://mynameismatthieu.com/WOW/index.html)
+* AOS: 页面滚动动画库： [官网](https://github.com/michalsnik/aos) 11.3k
+* wow: 当你滚动时显示动画 [官网](http://mynameismatthieu.com/WOW/index.html) 9.1k
 * Easy Pie Chart: 简单的动态显示单值饼图 [官网](https://github.com/rendro/easy-pie-chart/)
 * loading.io 各种loading效果，而且可以定制尺寸，速率。[官网](https://loading.io/)
 * hamburgers 汉堡菜单[官网](https://jonsuh.com/hamburgers/)
