@@ -15,6 +15,7 @@
   * [数据可视化](#data-visualization)
     * [时间轴](#timeline)
   * [编辑器](#editors)
+  * [图标](#icons)
   * 工具
     * [文件](#files)
     * [函数式编程](#functional-programming)
@@ -708,6 +709,11 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+
+<h3 id="icons">图标</h3>
+
+* Icon Meterial Design: Google 出品的图标库，可直接下载SVG文件。 [官网](https://material.io/resources/icons/?icon=translate&style=baseline)
+* iconfont: 阿里旗下矢量图标管理，交流平台。[官网](https://www.iconfont.cn/)
 
 #### 个人知乎专栏
 * 前端茶馆 [https://zhuanlan.zhihu.com/frontend-focus](https://zhuanlan.zhihu.com/frontend-focus)
