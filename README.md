@@ -89,6 +89,7 @@ JavaScript 的模块或加载系统。
 * lazyload：小巧且无依赖的异步 JavaScript 和 CSS 加载器。[官网](https://github.com/rgrove/lazyload/)
 * modulejs：轻量的 JavaScript 模块系统。[官网](https://github.com/lrsjng/modulejs)
 * lazysizes:无依赖懒加载 [官网](https://github.com/aFarkas/lazysizes)
+
 <h2 id="bundlers">打包工具</h2>
 
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
@@ -147,6 +148,7 @@ JavaScript 的模块或加载系统。
 * vue：一个用于构建可交互界面的、直观快速和可组合的 MVVM 框架。[官网](https://github.com/vuejs/vue) 151k
 * backbone：给你的 JS 应用加入带有 Models、Views、Collections 和 Events 的 Backbone。[官网](https://github.com/jashkenas/backbone) 27.6k
 * react-native：一个用 React 构建原生应用的框架。[官网](https://github.com/facebook/react-native) 82.1k
+* 前端业务代码工具库：[官网](https://github.com/proYang/outils) 1.3k
 
 <h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
