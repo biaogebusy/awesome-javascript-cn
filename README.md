@@ -543,6 +543,7 @@ Web 数据可视化工具
 * jQuery-Tags-Input：利用这个 jQuery 插件，可奇妙地将一个简单的文本输入转换成一个酷酷的标签列表。[官网](https://github.com/xoxco/jQuery-Tags-Input)
 * vanilla-masker：一个纯 JavaScript 实现的输入控制库。[官网](https://github.com/BankFacil/vanilla-masker)
 * Ion.CheckRadio：一个为复选框和单选按钮添加样式的 jQuery 库，支持多种皮肤。[官网](https://github.com/IonDen/ion.checkRadio)
+* Form serialize: 将提交的 Form  表单字段系列化成对象。[官网](https://github.com/defunctzombie/form-serialize)
 
 ### 日历
 
