@@ -620,6 +620,7 @@ Web 数据可视化工具
 
 * waypoints:滚动到元素时固定元素 [官网](https://github.com/imakewebthings/waypoints)
 * jQuery inview: [官网](https://github.com/protonet/jquery.inview) 1.6k
+* jQuery appear: 当页面滚动到元素时，执行一个回调函数 [官网](https://github.com/bas2k/jquery.appear/) 240
 
 <h3 id="menu">菜单</h3>
 
