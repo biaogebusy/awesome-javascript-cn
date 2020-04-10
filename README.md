@@ -544,6 +544,7 @@ Web 数据可视化工具
 * jQuery-Tags-Input：利用这个 jQuery 插件，可奇妙地将一个简单的文本输入转换成一个酷酷的标签列表。[官网](https://github.com/xoxco/jQuery-Tags-Input)
 * vanilla-masker：一个纯 JavaScript 实现的输入控制库。[官网](https://github.com/BankFacil/vanilla-masker)
 * Ion.CheckRadio：一个为复选框和单选按钮添加样式的 jQuery 库，支持多种皮肤。[官网](https://github.com/IonDen/ion.checkRadio)
+* Form serialize: 将提交的 Form  表单字段系列化成对象。[官网](https://github.com/defunctzombie/form-serialize)
 
 ### 日历
 
@@ -616,12 +617,14 @@ Web 数据可视化工具
 * jparallax：创建可交互视差效果的 jQuery 插件。[官网](https://github.com/stephband/jparallax)
 * fullPage：简单和易于使用的、用于创建全屏滚动网站的插件（也被称为单页面网站）。[官网](https://github.com/alvarotrigo/fullPage.js)
 * ScrollMenu：让老旧无聊的滚动条焕然一新。[官网](https://github.com/s-yadav/ScrollMenu)
+* Nicescroll: 让内容滚动的滚动条更新漂亮。 [官网](https://github.com/inuyaksa/jquery.nicescroll) 3.5K
 * jQuery-slimScroll: 可以将任何div转换为可滚动区域，并带有一个漂亮的滚动条。 [官网](https://github.com/rochal/jQuery-slimScroll)
 
 <h3 id="view">视窗</h3>
 
 * waypoints:滚动到元素时固定元素 [官网](https://github.com/imakewebthings/waypoints)
 * jQuery inview: [官网](https://github.com/protonet/jquery.inview) 1.6k
+* jQuery appear: 当页面滚动到元素时，执行一个回调函数 [官网](https://github.com/bas2k/jquery.appear/) 240
 
 <h3 id="menu">菜单</h3>
 
