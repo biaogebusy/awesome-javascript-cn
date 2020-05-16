@@ -6,7 +6,7 @@
 * [JavaScript资源大全中文版](#awesome-javascript-cn)
   * [包管理器](#package-managers)
   * [加载器](#loaders)
-  * [打包工具](#bundlers)
+  * [前端构建](#bundlers)
   * [测试框架](#testing-frameworks)
   * [QA 工具](#qa-tools)
   * [MVC 框架和库](#mvc-frameworks-and-libraries)
@@ -90,10 +90,11 @@ JavaScript 的模块或加载系统。
 * modulejs：轻量的 JavaScript 模块系统。[官网](https://github.com/lrsjng/modulejs)
 * lazysizes:无依赖懒加载 [官网](https://github.com/aFarkas/lazysizes)
 
-<h2 id="bundlers">打包工具</h2>
+<h2 id="bundlers">前端构建</h2>
 
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
+* createapp: 前端构建工具配置生成器。[官网](https://github.com/jakoblind/webpack-autoconf)
 
 <h2 id="testing-frameworks">测试框架</h2>
 
