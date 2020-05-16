@@ -402,10 +402,7 @@ Web 数据可视化工具
 
 <h3 id="api">API</h3>
 
-* bottleneck：强大的频率限制器，使调节流量变得更容易。[官网](https://github.com/SGrondin/bottleneck)
-* oauth-signature-js：适用于 node 和 浏览器的 OAuth 1.0a 签名生成器。[官网](https://github.com/bettiolo/oauth-signature-js)
-* amygdala：为 Web 应用提供 RESTful HTTP 客户端解决方案。[官网](https://github.com/lincolnloop/amygdala)
-* jquery.rest：一个让 RESTful API 更易使用的 jQuery 插件。[官网](https://github.com/jpillora/jquery.rest)
+* Public APIs: 作者汇总了网上的开发 API 接口。[官网](https://github.com/public-apis/public-apis) 8.2w
 
 <h3 id="vision-detection">视觉检测</h3>
 
